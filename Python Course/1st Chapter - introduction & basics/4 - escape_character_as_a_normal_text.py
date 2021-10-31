@@ -1,0 +1,5 @@
+print('line A \\n Line B')
+print('Line B \\t line A')
+print('this is a double backslash\\\\')
+print('\\"\\')
+print('\\\"\\\')

@@ -1,0 +1,6 @@
+a =input('Enter your name:')
+b =input('Any single Character of your name:')
+print(len(a))
+print(a.count(b))
+print(f'Length of your name is {len(a)}')
+print(f'The character you entered is {a.lower().count(b.lower())} time in your name')

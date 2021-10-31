@@ -1,0 +1,4 @@
+Ankit's salary is 100
+raj's salary is 50
+yash's salary is 70
+raj's salary is 80

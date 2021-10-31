@@ -1,0 +1,6 @@
+print("Escape 'Hello' sequence")
+print('Escape \'HEllo\' Sequence')
+print('line A\nline B\nEnter new line')
+print('tab 1\ttab 2')
+print('This is Backslash\\\\\\')
+print('Hellp\bo worlf\bd')
